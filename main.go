@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	basic.InferenceType()
+	basic.MakeMap()
 }
