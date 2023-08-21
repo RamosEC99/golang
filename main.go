@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	deeper.Deeper()
+	deeper.Gorutines()
 }
