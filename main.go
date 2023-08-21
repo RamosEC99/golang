@@ -1,9 +1,9 @@
 package main
 
 import (
-	"gopath/basic"
+	"gopath/deeper"
 )
 
 func main() {
-	basic.MakeMap()
+	deeper.Deeper()
 }
