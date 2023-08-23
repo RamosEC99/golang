@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	deeper.Gorutines()
+	deeper.Mutex()
 }
